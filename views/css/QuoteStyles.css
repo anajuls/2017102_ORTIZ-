@@ -2,9 +2,21 @@ html {
   position: relative;
   min-height: 100%;
 }
+div {
+    display: block;
+}
+
 body {
+font-family: "Josefin Sans", sans-serif;
+    line-height: 2;
+    padding: 20px;
+    height: 100%;
+    background: #eee;
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+
+
+  
 }
 .footer {
   position: absolute;
@@ -17,7 +29,7 @@ body {
 }
 table, th, td {
      border-collapse: collapse;
-     border: 1px solid black;
+     border: 3px solid purple;
      text-align: center;
 }
  table {
@@ -25,7 +37,7 @@ table, th, td {
      width:100%;
 }
  td, th {
-     border: 1px solid #ced4da;
+     border: 3px solid #2e3192;
      padding: 0.5rem;
      text-align: left;
 }

@@ -9,6 +9,14 @@
       <item>Flyer</item>
       <price>50</price>
     </entree>
+    <entree>
+      <item>cac</item>
+      <price>csdcd</price>
+    </entree>
+    <entree>
+      <item>letterhead</item>
+      <price>4.95</price>
+    </entree>
   </section>
   <section name="Digital Services">
     <entree>
@@ -23,10 +31,6 @@
       <item>Facebook Banner</item>
       <price>50</price>
     </entree>
-    <entree>
-      <item>webbanner</item>
-      <price>35.00</price>
-    </entree>
   </section>
   <section name="Web Design">
     <entree>
@@ -37,11 +41,11 @@
       <item>New Page</item>
       <price>150</price>
     </entree>
-    <entree vegetarian="true">
+    <entree>
       <item>Home Banner</item>
       <price>150</price>
     </entree>
-    <entree vegetarian="true">
+    <entree>
       <item>Images</item>
       <price>75</price>
     </entree>
@@ -55,7 +59,7 @@
       <item>Flyer</item>
       <price>50</price>
     </entree>
-    <entree vegetarian="true">
+    <entree >
       <item>Ticket</item>
       <price>50</price>
     </entree>
