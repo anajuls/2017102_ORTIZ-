@@ -13,7 +13,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <xsl:for-each select="/Quote/section">
+                        <xsl:for-each select="/quote/section">
                             <tr>
                                 <td colspan="3">
                                     <xsl:value-of select="@name" />
