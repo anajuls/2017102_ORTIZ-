@@ -10,12 +10,8 @@
       <price>50</price>
     </entree>
     <entree>
-      <item>cac</item>
-      <price>csdcd</price>
-    </entree>
-    <entree>
       <item>letterhead</item>
-      <price>4.95</price>
+      <price>50</price>
     </entree>
   </section>
   <section name="Digital Services">
@@ -45,10 +41,6 @@
       <item>Home Banner</item>
       <price>150</price>
     </entree>
-    <entree>
-      <item>Images</item>
-      <price>75</price>
-    </entree>
   </section>
   <section name="Marketing">
     <entree>
@@ -59,7 +51,7 @@
       <item>Flyer</item>
       <price>50</price>
     </entree>
-    <entree >
+    <entree>
       <item>Ticket</item>
       <price>50</price>
     </entree>
