@@ -9,10 +9,6 @@
       <item>Flyer</item>
       <price>50</price>
     </entree>
-    <entree>
-      <item>letterhead</item>
-      <price>50</price>
-    </entree>
   </section>
   <section name="Digital Services">
     <entree>
@@ -21,10 +17,6 @@
     </entree>
     <entree>
       <item>Instagram Posts</item>
-      <price>50</price>
-    </entree>
-    <entree>
-      <item>Facebook Banner</item>
       <price>50</price>
     </entree>
   </section>
