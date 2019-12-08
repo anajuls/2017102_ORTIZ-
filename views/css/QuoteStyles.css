@@ -14,7 +14,12 @@ font-family: "Josefin Sans", sans-serif;
     line-height: 2;
     padding: 20px;
     height: 100%;
-    background: #eee;
+ background-image: url('css/compu.jpg'); 
+
+}
+
+
+
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 
