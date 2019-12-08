@@ -11,7 +11,8 @@ html {
 
 body {
 font-family: "Josefin Sans", sans-serif;
-    line-height: 2;
+    color: #2e3192;
+    line-height: 1;
     padding: 20px;
     height: 100%;
  background-image: url('css/compu.jpg'); 
@@ -21,7 +22,7 @@ font-family: "Josefin Sans", sans-serif;
 
 
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 80px;
 
 
   
@@ -37,7 +38,7 @@ font-family: "Josefin Sans", sans-serif;
 }
 table, th, td {
      border-collapse: collapse;
-     border: 3px solid purple;
+     border: 4px solid purple;
      text-align: center;
 }
  table {
@@ -52,7 +53,13 @@ table, th, td {
  th {
      font-weight: bold;
 }
+.bacground{
+
+background-color: #2e3192; 
+
+}
+  
 .selected {
             background-color: #EFECEA;
-            color: #FFF;
+            color: #2e3192;
 }
